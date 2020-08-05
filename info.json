@@ -1,0 +1,24 @@
+{
+	"name": "Sammuel Tracy",
+	"website": "",
+	"linkedin": "https://www.linkedin.com/in/5ammuel/",
+	"github": "5ammuel",
+	"email": "sammuel.tracy@gmail.com",
+	"resume": "",
+	"proficientTechnologies": [
+        "Javascript",
+        "Html",
+        "CSS",
+		"React",
+        "Vue",
+        "GreenSock",
+		"Node",
+		"Mongodb",
+		"Python",
+        "Wordpress",
+        "Wix",
+        "GoDaddy",
+        "JQuery"
+	],
+	"otherSkills": ["French", ""]
+}

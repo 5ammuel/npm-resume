@@ -1,0 +1,20 @@
+{
+  "name": "sammuel-tracy-resume",
+  "version": "0.0.8",
+  "description": "This is the professional resume of Sammuel Tracy currently in ALPHA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/5ammuel/npm-resume.git"
+  },
+  "author": "Sammuel Tracy",
+  "license": "ISC",
+
+  "bin": {
+    "your-command-here": "./index.js"
+  }
+
+}
